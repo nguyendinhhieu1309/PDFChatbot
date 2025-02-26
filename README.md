@@ -58,7 +58,7 @@ This project uses the following libraries:
 
 3. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/pdf-chatbot.git
+   git clone https://github.com/nguyendinhhieu1309/PDFChatbot.git
    cd pdf-chatbot
    ```
 
