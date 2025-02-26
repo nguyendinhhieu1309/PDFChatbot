@@ -109,5 +109,5 @@ This project utilizes Langchain, Google Generative AI, and Chroma for managing d
 ### 🎨 Demo
 
 Here is a screenshot of the chatbot in action:
-(![image](https://github.com/user-attachments/assets/7f3670e0-b877-48e7-afe2-adbcdc14d21f))
+(https://github.com/user-attachments/assets/7f3670e0-b877-48e7-afe2-adbcdc14d21f)
 
