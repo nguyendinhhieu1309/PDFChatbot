@@ -1,8 +1,8 @@
 
 # 📄 PDF Chatbot for Document Analysis
 
-**Developed by [Your Name]**  
-[Your Email]
+**Developed by [Nguyen Dinh Hieu]**  
+[hieundhe180318@fpt.edu.vn]
 
 ---
 
@@ -110,5 +110,6 @@ This project utilizes Langchain, Google Generative AI, and Chroma for managing d
 
 Here is a screenshot of the chatbot in action:
 
-![Chatbot Demo](https://path/to/screenshot.png)
+![Chatbot Demo](![image](https://github.com/user-attachments/assets/7f3670e0-b877-48e7-afe2-adbcdc14d21f)
+)
 
